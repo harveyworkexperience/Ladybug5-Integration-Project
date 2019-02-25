@@ -1,0 +1,10 @@
+These folders contain the src folders from the Windows and Linux installations of the Ladybug API.
+
+To restore the code, paste the entire src folder in the appropriate directory for your OS
+
+NOTE: In order to use this code you will need to have installed the Ladybug SDK first
+
+Install Locations:
+    Windows: C://Program Files/Point Grey Research/Ladybug
+    Linux: /usr/src/ladybug/src
+
