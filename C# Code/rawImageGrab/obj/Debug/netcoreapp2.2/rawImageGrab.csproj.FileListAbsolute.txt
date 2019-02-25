@@ -1,0 +1,11 @@
+C:\Users\Ladybug\Documents\Code\rawImageGrab\obj\Debug\netcoreapp2.2\rawImageGrab.csprojAssemblyReference.cache
+C:\Users\Ladybug\Documents\Code\rawImageGrab\obj\Debug\netcoreapp2.2\rawImageGrab.csproj.CoreCompileInputs.cache
+C:\Users\Ladybug\Documents\Code\rawImageGrab\obj\Debug\netcoreapp2.2\rawImageGrab.AssemblyInfoInputs.cache
+C:\Users\Ladybug\Documents\Code\rawImageGrab\obj\Debug\netcoreapp2.2\rawImageGrab.AssemblyInfo.cs
+C:\Users\Ladybug\Documents\Code\rawImageGrab\bin\Debug\netcoreapp2.2\rawImageGrab.deps.json
+C:\Users\Ladybug\Documents\Code\rawImageGrab\bin\Debug\netcoreapp2.2\rawImageGrab.runtimeconfig.json
+C:\Users\Ladybug\Documents\Code\rawImageGrab\bin\Debug\netcoreapp2.2\rawImageGrab.runtimeconfig.dev.json
+C:\Users\Ladybug\Documents\Code\rawImageGrab\bin\Debug\netcoreapp2.2\rawImageGrab.dll
+C:\Users\Ladybug\Documents\Code\rawImageGrab\bin\Debug\netcoreapp2.2\rawImageGrab.pdb
+C:\Users\Ladybug\Documents\Code\rawImageGrab\obj\Debug\netcoreapp2.2\rawImageGrab.dll
+C:\Users\Ladybug\Documents\Code\rawImageGrab\obj\Debug\netcoreapp2.2\rawImageGrab.pdb

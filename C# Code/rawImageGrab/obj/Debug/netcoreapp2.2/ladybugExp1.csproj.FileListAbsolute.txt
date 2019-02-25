@@ -1,0 +1,11 @@
+C:\Users\Ladybug\Documents\Code\ladybugExp1\obj\Debug\netcoreapp2.2\ladybugExp1.csprojAssemblyReference.cache
+C:\Users\Ladybug\Documents\Code\ladybugExp1\obj\Debug\netcoreapp2.2\ladybugExp1.csproj.CoreCompileInputs.cache
+C:\Users\Ladybug\Documents\Code\ladybugExp1\obj\Debug\netcoreapp2.2\ladybugExp1.AssemblyInfoInputs.cache
+C:\Users\Ladybug\Documents\Code\ladybugExp1\obj\Debug\netcoreapp2.2\ladybugExp1.AssemblyInfo.cs
+C:\Users\Ladybug\Documents\Code\ladybugExp1\bin\Debug\netcoreapp2.2\ladybugExp1.deps.json
+C:\Users\Ladybug\Documents\Code\ladybugExp1\bin\Debug\netcoreapp2.2\ladybugExp1.runtimeconfig.json
+C:\Users\Ladybug\Documents\Code\ladybugExp1\bin\Debug\netcoreapp2.2\ladybugExp1.runtimeconfig.dev.json
+C:\Users\Ladybug\Documents\Code\ladybugExp1\bin\Debug\netcoreapp2.2\ladybugExp1.dll
+C:\Users\Ladybug\Documents\Code\ladybugExp1\bin\Debug\netcoreapp2.2\ladybugExp1.pdb
+C:\Users\Ladybug\Documents\Code\ladybugExp1\obj\Debug\netcoreapp2.2\ladybugExp1.dll
+C:\Users\Ladybug\Documents\Code\ladybugExp1\obj\Debug\netcoreapp2.2\ladybugExp1.pdb
