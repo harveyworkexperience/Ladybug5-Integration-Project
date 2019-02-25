@@ -15,6 +15,4 @@ Ladybug5 Reference Documents - Technical reference datasheets for FLIR Ladybug5 
 
 Linux - Modified example code from Ladybug SDK on Linux, read INSTRUCTIONS.txt for more information
 
-Project References - Documentation and reports developed as part of the project.
-
 Windows 10 - Modified example code from Ladybug SDK on Windows 10, see INSTRUCTIONS.txt
